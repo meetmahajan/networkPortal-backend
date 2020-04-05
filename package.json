@@ -1,0 +1,20 @@
+{
+  "name": "networkPortal",
+  "version": "1.0.0",
+  "description": "Back End support for Network Portal",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "swagger-ui-express": "^4.1.3",
+    "uuid": "^3.4.0"
+  }
+}
